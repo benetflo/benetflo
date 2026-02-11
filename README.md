@@ -1,2 +1,1 @@
-
-![Most Used Languages](https://img.shields.io/github/languages/top/benetflo/lua-wrapper-pico?color=blue)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=benetflo&repo=lua-wrapper-pico&layout=compact)
